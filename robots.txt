@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /backups/
+Disallow: /wp-admin/
+Disallow: /wp-content/upgrade/
+Disallow: /wp-includes/
+Disallow: /license.txt
+Disallow: /readme.html
+
+#Sitemaps
+Sitemap: http://someonedidntcheck.this/sitemap_index.xml
